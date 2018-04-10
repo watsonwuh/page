@@ -7,29 +7,29 @@
 
 # Site settings
 title: Watson Wu
-brief-intro: Technology new-retrail architecture Android and Python Coder
+brief-intro: 拥抱变化的世界
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://watsonwuh.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #gaohaoyang126
-facebook_username: #gaohaoyang.water
+#twitter_username: #gaohaoyang126
+#facebook_username: #gaohaoyang.water
 github_username:  watsonwuh
 email: watson.wuh@gmail.com
-weibo_username: #3115521wh
-zhihu_username: #hll643435675
-linkedIn_username: #gaohaoyang
-dribbble_username:
+#weibo_username: #3115521wh
+#zhihu_username: #hll643435675
+#linkedIn_username: #gaohaoyang
+#dribbble_username:
 
 description_footer: 天行健，君子以自强不息
 
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: #gaohaoyang
+#duoshuo_shortname: #hygblog
+#disqus_shortname: #gaohaoyang
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
@@ -58,4 +58,4 @@ excerpt_separator: "\n\n\n\n"
 # paginate
 plugins: [jekyll-paginate]
 paginate: 6
-port: 4001
+port: 5000
